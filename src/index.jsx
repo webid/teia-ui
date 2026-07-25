@@ -49,6 +49,7 @@ import {
   ImageFeed,
   VideoFeed,
   NewObjktsFeed,
+  NewArtistsFeed,
   RandomFeed,
   RecentSalesFeed,
   TagFeed,
@@ -166,6 +167,7 @@ const router = createBrowserRouter(
         <Route path="ukraine" element={<UkraineFeed />} />
         <Route path="random" element={<RandomFeed />} />
         <Route path="newobjkts" element={<NewObjktsFeed />} />
+        <Route path="newartists" element={<NewArtistsFeed />} />
         <Route path="glb" element={<GlbFeed />} />
         <Route path="video" element={<VideoFeed />} />
         <Route path="image" element={<ImageFeed />} />

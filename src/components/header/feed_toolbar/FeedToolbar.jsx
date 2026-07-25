@@ -29,6 +29,7 @@ const locationMap = new Map([
   ['/feed/sales', 'Recent Sales'],
   ['/feed/random', 'Random'],
   ['/feed/newobjkts', 'New OBJKTs'],
+  ['/feed/newartists', 'New Artists'],
   ['/feed/friends', 'Friends'],
   // separator
   ['---fund_feeds', 'Event Feeds'],

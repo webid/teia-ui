@@ -30,6 +30,7 @@ export const feedComponentMap: FeedComponentMap = {
   '🇵🇸 Tez4Pal': FEEDS.Tez4PalFeed,
   Random: FEEDS.RandomFeed,
   'New OBJKTs': FEEDS.NewObjktsFeed,
+  'New Artists': FEEDS.NewArtistsFeed,
   '3D': FEEDS.GlbFeed,
   Video: FEEDS.VideoFeed,
   Image: FEEDS.ImageFeed,

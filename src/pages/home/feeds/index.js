@@ -1,4 +1,5 @@
 export { NewObjktsFeed } from './new-objkts-feed'
+export { NewArtistsFeed } from './new-artists-feed'
 
 export {
   AudioFeed,

@@ -97,6 +97,7 @@ export const FEED_LIST = [
   'Recent Sales',
   'Random',
   'New OBJKTs',
+  'New Artists',
   'Friends',
   'Quake Aid',
   '🇵🇸 Tez4Pal',
